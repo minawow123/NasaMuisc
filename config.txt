@@ -1,0 +1,6 @@
+owner=407684092570763266
+prefix=$
+game= $play | NASA Muisc
+stayinchannel=true
+songinstatus=false
+token=NTQwNDI2MDAwOTAzODMxNTUy.DzQujA.-HALLRFmpKA_Y2162hY_eBmtOrY
